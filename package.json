@@ -1,0 +1,22 @@
+{
+  "name": "healixautomationusingcypress",
+  "version": "1.0.0",
+  "description": "This the Cypress Automation Project for the test purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramsendang/HealixAutomationUsingCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramsendang/HealixAutomationUsingCypress/issues"
+  },
+  "homepage": "https://github.com/ramsendang/HealixAutomationUsingCypress#readme",
+  "dependencies": {
+    "cypress": "^10.2.0"
+  }
+}
